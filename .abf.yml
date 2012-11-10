@@ -1,0 +1,7 @@
+sources:
+  "dkms-fxusb-remove-DECLARE_MUTEX_LOCKED.patch:"	82bd7eea107eb7749e8a2df7becb7043746eb9e6
+  "dkms-fxusb-remove-usb_driver_owner.patch:"	e25869cfc41154b8854f16ed311a3f5ce0ec612b
+  "dkms-fxusb-update-INIT_WORK-changes.patch:"	2cc3d4fa33f06c03ea0cd39c8ca04799c22c00df
+  "dkms-fxusb-update-usb_complete_t-functions.patch:"	7024259279f804899efd6a5734962d006439e803
+  "dkms-fxusb-use-autoconf-header.patch:"	cbbeb1a00ead9fcc1093774b920ac8fdf0d5b463
+  "fxusb-suse93-3.11-06.tar.bz2:"	e3c42c242ed7aabf304e25373030c0b4785cc2de
